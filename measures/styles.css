@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: red;
+    width: 600px;
+    height: 300px;
+}
+
+/* Percentages */
+/* .child {
+    background-color: darkcyan;
+    width: 50%;
+} */
+
+/* ViewPort */
+.child {
+    background-color: darkcyan;
+    width: 100svw;
+    height: 10svh;
+}
