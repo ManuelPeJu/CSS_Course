@@ -3,10 +3,21 @@
     padding: 0;
 }
 
+/* Pixels */
+/* .container {
+    background-color: red;
+    width: 600px;
+    height: 300px;
+} */
+
+/* em && rem */
 .container {
     background-color: red;
     width: 600px;
     height: 300px;
+
+    font-size:18px ; /*reference for the em*/
+    margin: 1.5em;
 }
 
 /* Percentages */
