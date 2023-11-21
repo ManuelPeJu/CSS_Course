@@ -1,27 +1,52 @@
-h1, p, div, h3, b {
-    border: 2px dotted black;
+/* h1, p, div, h3, b {
+    /* border: 2px dotted black; border complete */
+    /* border part by part */
+    /* border: 3px;
+    border-color: blue;
+    border-style: double;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px; */
     
-} 
+/* }  */
 
-h1 {
+/* h1 {
     margin: 10px;
     padding: 50px;
     margin-left: 80px;
     margin-right: 10px;
     margin-top: 25px;
     margin-bottom: 30px
-}
+} */
 
-div {
+/* div {
     padding: 25px;
     padding-left: 50px;
     padding-top: 29px;
     padding-right: 70px;
     padding-bottom: 5px;
-    background-color: red;
-}
-
+    background-color: gray;
+} */
+/* 
 p {
     padding: 50px 10px;
     margin: 200px 50px;
+} */
+
+div {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #b4b4b4;
+    color: #333;
+    width: 300px;
+    height: auto;
+    margin: 10px;
+}
+
+p {
+    font-size: 26px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
 }
