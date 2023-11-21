@@ -1,0 +1,56 @@
+/* ul {
+    list-style-type: none;
+    background-color: burlywood;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
+
+li {
+    display: inline;
+} */
+
+/* a {
+    text-decoration: none;
+    text-decoration-color: red;
+    color: white;
+} */
+
+/* a:hover {
+    background-color: blue;
+    color: black;
+    border-radius: 5px;
+} */
+
+/* p {
+    cursor: pointer;
+} */
+
+/* div {
+    width: 350px;
+    height: 100px;
+    background-color: beige;
+    overflow-y: scroll;
+} */
+
+.box1 {
+    width: 150px;
+    height: 150px;
+    background-color: saddlebrown;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.box2 {
+    width: 160px;
+    height: 120px;
+    background-color: blueviolet;   
+    overflow: hidden;
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}
+
