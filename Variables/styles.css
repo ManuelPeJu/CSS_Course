@@ -1,0 +1,15 @@
+:root {
+    /* variables definition zone */
+    --color-primary: white; 
+    --color-secundary: brown;
+    --color-bg: black;
+}
+
+main {
+  background-color: var(--color-bg);
+  color: var(--color-primary)
+}
+
+p {
+    background-color: var(--color-secundary);
+}
